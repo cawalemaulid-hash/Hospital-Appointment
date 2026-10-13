@@ -1,0 +1,25 @@
+{
+  "appointments": [
+    {
+      "fullName": "cawale",
+      "phone": "0724334196",
+      "department": "General Medicine",
+      "doctor": "Dr. Ibrahim Noor",
+      "date": "2026-05-05",
+      "time": "16:44",
+      "reason": "sick",
+      "id": "FOe2PPaMDMk"
+    },
+    {
+      "fullName": "halima",
+      "phone": "0724334196",
+      "department": "General Medicine",
+      "doctor": "Dr. Maryam Yusuf",
+      "date": "2026-02-22",
+      "time": "06:55",
+      "reason": "sick",
+      "id": "NMmvqv-GhNk"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
